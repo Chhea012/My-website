@@ -6,7 +6,14 @@
 body {
   background-color: #fff;
 }
+.account {
+  text-decoration: none;
+  color: black;
+}
 
+.account:hover {
+  color: green;
+}
 header {
   display: flex;
   justify-content: space-between;

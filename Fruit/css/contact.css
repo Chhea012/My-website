@@ -2,7 +2,14 @@
   padding: 0;
   margin: 0;
 }
+.account {
+  text-decoration: none;
+  color: black;
+}
 
+.account:hover {
+  color: green;
+}
 body {
   background-color: #fff;
 }
